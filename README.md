@@ -13,4 +13,5 @@ Permission secured from client?: Yes
 
 Phases Covered
 Phase 1: Reconnaissance & Footprinting
+
 Phase 2: Network Scanning
