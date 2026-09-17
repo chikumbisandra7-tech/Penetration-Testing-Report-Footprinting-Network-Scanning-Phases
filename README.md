@@ -311,7 +311,7 @@ This practical demonstrated:
 
 # 🖼️ Evidence Collected
 
-The original practical report contains screenshots documenting the following activities:
+
 
 1. **WHOIS** – `whois networkwalks.com
 2. <img width="1577" height="717" alt="427913" src="https://github.com/user-attachments/assets/4f41551a-bd68-4830-9cb7-ea74350d5669" />
