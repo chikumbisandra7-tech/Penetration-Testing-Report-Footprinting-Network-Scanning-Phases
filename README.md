@@ -1,2 +1,16 @@
-# Penetration-Testing-Report-Footprinting-Network-Scanning-Phases
-PENETRATION TESTING REPORT FOOTPRINTING, RECONNAISSANCE &amp; NETWORK SCANNING W2-PM1 &amp; W2-PM5 | CYBERSECURITY | NETWORKWALKS
+Pentester Name (Cybersecurity Professional)
+Sandra Chkumbi
+Program / Batch
+B083 – Networkwalks
+Date
+15–16 September 2026
+Modules Completed
+W2-PM1 (Multiple Kali Linux Tools – Footprinting & Reconnaissance)
+W2-PM5 (Zenmap – Network Scanning)
+Client / Target
+Networkwalks (secured written permission already)
+Permission secured from client?
+Yes
+Phases Covered
+Phase 1: Reconnaissance & Footprinting
+Phase 2: Network Scanning
