@@ -313,14 +313,28 @@ This practical demonstrated:
 
 The original practical report contains screenshots documenting the following activities:
 
-1. **WHOIS** – `whois networkwalks.com`
-2. **WhatWeb** – `whatweb networkwalks.com`
-3. **WhatWeb + Nslookup** – `nslookup networkwalks.com`
-4. **curl** – `curl -I https://networkwalks.com`
-5. **wafw00f** – `wafw00f networkwalks.com`
-6. **dnsrecon** – `dnsrecon -d networkwalks.com`
-7. **Zenmap Ping Scan** – `nmap -sn 10.0.0.0/24`
-8. **Zenmap Topology View**
+1. **WHOIS** – `whois networkwalks.com
+2. <img width="1577" height="717" alt="427913" src="https://github.com/user-attachments/assets/4f41551a-bd68-4830-9cb7-ea74350d5669" />
+`
+3. **WhatWeb** – `whatweb networkwalks.com`
+   <img width="1382" height="777" alt="427912" src="https://github.com/user-attachments/assets/30b6e1ad-d35c-44c0-ac6c-a5bc40419b3b" />
+
+5. **WhatWeb + Nslookup** – `nslookup networkwalks.com`
+   <img width="1147" height="717" alt="427911" src="https://github.com/user-attachments/assets/afb88123-5f14-4b3a-8877-9d020514b8fa" />
+
+7. **curl** – `curl -I https://networkwalks.com`
+  <img width="1137" height="762" alt="427916" src="https://github.com/user-attachments/assets/962f3ee6-e4ad-4f5f-9e8e-72ebbbb6880e" />
+ 
+9. **wafw00f** – `wafw00f networkwalks.com`
+    <img width="1175" height="792" alt="427915" src="https://github.com/user-attachments/assets/9c00ff25-4587-43af-9dd0-10eb3bf59985" />
+
+11. **dnsrecon** – `dnsrecon -d networkwalks.com`
+12. **Zenmap Ping Scan** – `nmap -sn 10.0.0.0/24`
+    <img width="1352" height="755" alt="430495" src="https://github.com/user-attachments/assets/fe54c9c0-ae8f-4d8d-a6c4-32c23420dbd6" />
+
+14. **Zenmap Topology View**
+15. <img width="1248" height="795" alt="430494" src="https://github.com/user-attachments/assets/b4abe2bf-f742-438d-ab92-8530558b0246" />
+
 
 > **Suggested GitHub structure**
 >
