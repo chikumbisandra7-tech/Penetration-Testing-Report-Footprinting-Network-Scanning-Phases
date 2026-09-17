@@ -360,13 +360,14 @@ This practical demonstrated:
 
 **Sandra Chkumbi**
 
-Cybersecurity Student – B083
+Cybersecurity intern – B083
 
 **Programme:** Cybersecurity at Networkwalks  
 **Week:** 02  
 **Modules:** W2-PM1 & W2-PM5  
 **Cohort:** B083
 
+🔗 LinkedIn: https://www.linkedin.com/in/sandra-chikumbi-536160295?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ## 📌 Scope & Authorization
